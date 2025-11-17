@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kenshin/Desktop/CoreData/MyCoreData/EditTaskView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "編集",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "保存",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

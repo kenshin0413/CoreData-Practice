@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'MyCoreData' in project 'MyCoreData' (no dependencies)
+Target 'MyCoreData' in project 'MyCoreData' (no dependencies)
